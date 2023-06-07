@@ -1,3 +1,4 @@
+#String slicing
 
 # Color change subroutine
 def c(color):
